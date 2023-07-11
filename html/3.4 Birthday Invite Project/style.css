@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: #e2e2b2;
+    align-items: center;
+    justify-content: center;
+    color: #e42355;
+}
+
+div{
+    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+    width: min-content;
+    text-align: center;
+}
+
+h1{
+    align-items: center;
+    justify-self: center;
+    text-transform: uppercase;
+}
+img{
+    border: 5px solid#370128;
+    margin: 1rem;
+
+}
+
+h2, p{
+    text-transform: lowercase;
+}
