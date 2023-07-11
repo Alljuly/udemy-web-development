@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "server.js": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "My first express server",
+  "main": "server.js",
+  "author": "Alice",
+  "license": "ISC"
+}
